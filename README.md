@@ -17,6 +17,7 @@
 
 # Frameworks & Tools
 - React.js
+- Tailwind CSS
 - MySQL
 - Git & GitHub
 - Visual Studio Code
